@@ -1,7 +1,0 @@
-path: D:\PyCharm Community Edition 2023.2.3\PycharmProjects\object_detector\bicycle_data #dataset root direction
-train: images #train images (relative to 'path')
-val: images #val images (relative to 'path')
-
-#Classes
-names:
-  0: bicycle
